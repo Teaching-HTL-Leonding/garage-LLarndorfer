@@ -1,0 +1,11 @@
+C:\Users\User\Documents\HTL\2AHIF\PROO\Garage\Garage.Logic\bin\Debug\net8.0\Garage.Logic.deps.json
+C:\Users\User\Documents\HTL\2AHIF\PROO\Garage\Garage.Logic\bin\Debug\net8.0\Garage.Logic.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\Garage\Garage.Logic\bin\Debug\net8.0\Garage.Logic.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\Garage\Garage.Logic\obj\Debug\net8.0\Garage.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\2AHIF\PROO\Garage\Garage.Logic\obj\Debug\net8.0\Garage.Logic.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\Garage\Garage.Logic\obj\Debug\net8.0\Garage.Logic.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\2AHIF\PROO\Garage\Garage.Logic\obj\Debug\net8.0\Garage.Logic.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\2AHIF\PROO\Garage\Garage.Logic\obj\Debug\net8.0\Garage.Logic.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\Garage\Garage.Logic\obj\Debug\net8.0\refint\Garage.Logic.dll
+C:\Users\User\Documents\HTL\2AHIF\PROO\Garage\Garage.Logic\obj\Debug\net8.0\Garage.Logic.pdb
+C:\Users\User\Documents\HTL\2AHIF\PROO\Garage\Garage.Logic\obj\Debug\net8.0\ref\Garage.Logic.dll
